@@ -405,7 +405,7 @@ const App: React.FC = () => {
       <footer className="footer">
         <div className="footer-inner">
           <p className="footer-name">Lewis Kimtai</p>
-          <p className="footer-copy">© 2025 Kimtai Lewis. All rights reserved.</p>
+          <p className="footer-copy">© 2026 Kimtai Lewis. All rights reserved.</p>
         </div>
       </footer>
     </div>
