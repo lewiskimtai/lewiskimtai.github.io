@@ -1,8 +1,0 @@
-/// <reference types="react-scripts" />
-
-declare module "*.css";
-declare module "*.svg";
-declare module "*.png";
-declare module "*.jpg";
-declare module "*.avif";
-declare module "*.webp";
